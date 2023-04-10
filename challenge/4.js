@@ -12,4 +12,6 @@ function parOuImpar(number) {     //função "parOuImpar" com o parâmetro numbe
 console.log( parOuImpar(2));        //coloquei 2/par (true)
 console.log( parOuImpar(3));        //coloquei 3/impar (false)
 
+ // Nível de difículdade: 2/10. 
+
 
